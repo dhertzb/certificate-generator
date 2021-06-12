@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+body {
+  background: rgb(229, 231, 235);
+}
+.container {
+  padding: 5%;
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+  border: solid 1px #d0cece;
+  color: rgb(17, 24, 39);
+  padding: 15px;
+  margin: 10px 0;
+}
